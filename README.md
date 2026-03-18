@@ -56,14 +56,14 @@
   </thead>
   <tbody>
     <tr>
-      <td>🔗 <a href="#">Projet 1</a></td>
-      <td>Description courte du projet</td>
-      <td>HTML, CSS, JS</td>
+      <td>🔗 <a href="https://github.com/olalbns/Tontine-en-ligne-">TNTL</a></td>
+      <td>Une plateforme de tontine en ligne avec choix de récompense. Cliquer le lien pour en savoir plus !!</td>
+      <td>HTML, CSS, JS, PHP, MySQL, AJAX, BOOTSTRAP</td>
     </tr>
     <tr>
-      <td>🔗 <a href="#">Projet 2</a></td>
-      <td>Description courte du projet</td>
-      <td>PHP, MySQL, AJAX</td>
+      <td>🔗 <a href="https://github.com/olalbns/Notepad">NOTEPAD+</a></td>
+      <td>App web de note, de planning etc (en cours)</td>
+      <td>HTML, CSS, JS, PHP, MySQL, AJAX</td>
     </tr>
     <tr>
       <td>🔗 <a href="#">Projet 3</a></td>
