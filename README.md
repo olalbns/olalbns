@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, moi c'est ola lbn's 👋
+  Hey, moi c'est Ola lbn's 👋
 </h1>
 <h3 align="center">
   💻 Développeur Web Passionné &nbsp;|&nbsp; 🎓 Étudiant en Informatique
@@ -7,20 +7,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Développeur+Web+Full+Stack;Passionné+de+code+et+de+création;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+---
 🙋 À propos de moi
-
-Je suis développeur web passionné et étudiant en informatique.
-J'adore transformer des idées en interfaces web élégantes et fonctionnelles.
-Chaque ligne de code est une opportunité d'apprendre et de progresser 🔥
-
-
+> Je suis développeur web passionné et étudiant en informatique.  
+> J'adore transformer des idées en interfaces web élégantes et fonctionnelles.  
+> Chaque ligne de code est une opportunité d'apprendre et de progresser 🔥
 🌍 Basé à Cotonou, Bénin 🇧🇯
 🎓 Actuellement en formation en Informatique
 🌱 En apprentissage continu — toujours curieux des nouvelles technos
 🎯 Objectif : devenir un développeur Full Stack accompli
-
-
+⚡ Fun fact : Je code mieux avec une bonne musique en fond 🎵
+---
 🛠️ Stack Technique
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +36,7 @@ Outils & Environnement :
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
+---
 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olalbns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -48,10 +45,14 @@ Outils & Environnement :
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=olalbns&theme=tokyonight&hide_border=true" />
 </p>
-
+---
 📌 Projets mis en avant
-
-
+> *(Épingle tes meilleurs repos directement sur ton profil GitHub via "Customize your pins")*
+Projet	Description	Technos
+🔗 Projet 1	Description courte du projet	HTML, CSS, JS
+🔗 Projet 2	Description courte du projet	PHP, MySQL, AJAX
+🔗 Projet 3	Description courte du projet	Tailwind, Bootstrap
+---
 📫 Me retrouver
 <p align="center">
   <a href="mailto:olalbns@gmail.com">
@@ -64,7 +65,7 @@ Outils & Environnement :
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=olalbns&label=Visiteurs+du+profil&color=58A6FF&style=flat" alt="profile views" />
 </p>
