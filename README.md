@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/AJAX-005C97?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Composer-38B2AC?style=for-the-badge&logo=composer&logoColor=wheat"/>
+    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=wheat"/>
 </p>
 <h1>Outils & Environnement :</h1>
 <p align="center">
