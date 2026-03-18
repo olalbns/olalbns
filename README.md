@@ -46,11 +46,32 @@
 </p>
 ---
 <h1>📌 Projets mis en avant</h1>
-> *(Épingle tes meilleurs repos directement sur ton profil GitHub via "Customize your pins")*
-Projet	Description	Technos
-🔗 Projet 1	Description courte du projet	HTML, CSS, JS
-🔗 Projet 2	Description courte du projet	PHP, MySQL, AJAX
-🔗 Projet 3	Description courte du projet	Tailwind, Bootstrap
+<table align="center">
+  <thead>
+    <tr>
+      <th>Projet</th>
+      <th>Description</th>
+      <th>Technos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🔗 <a href="#">Projet 1</a></td>
+      <td>Description courte du projet</td>
+      <td>HTML, CSS, JS</td>
+    </tr>
+    <tr>
+      <td>🔗 <a href="#">Projet 2</a></td>
+      <td>Description courte du projet</td>
+      <td>PHP, MySQL, AJAX</td>
+    </tr>
+    <tr>
+      <td>🔗 <a href="#">Projet 3</a></td>
+      <td>Description courte du projet</td>
+      <td>Tailwind, Bootstrap</td>
+    </tr>
+  </tbody>
+</table>
 ---
 <h1>📫 Me retrouver</h1>
 <p align="center">
