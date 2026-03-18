@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 ---
-📊 Statistiques GitHub
+<h1>📊 Statistiques GitHub</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olalbns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olalbns&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -45,14 +45,14 @@
   <img src="https://streak-stats.demolab.com?user=olalbns&theme=tokyonight&hide_border=true" />
 </p>
 ---
-📌 Projets mis en avant
+<h1>📌 Projets mis en avant</h1>
 > *(Épingle tes meilleurs repos directement sur ton profil GitHub via "Customize your pins")*
 Projet	Description	Technos
 🔗 Projet 1	Description courte du projet	HTML, CSS, JS
 🔗 Projet 2	Description courte du projet	PHP, MySQL, AJAX
 🔗 Projet 3	Description courte du projet	Tailwind, Bootstrap
 ---
-📫 Me retrouver
+<h1>📫 Me retrouver</h1>
 <p align="center">
   <a href="mailto:olalbns@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
