@@ -65,11 +65,6 @@
       <td>App web de note, de planning etc (en cours)</td>
       <td>HTML, CSS, JS, PHP, MySQL, AJAX</td>
     </tr>
-    <tr>
-      <td>🔗 <a href="#">Projet 3</a></td>
-      <td>Description courte du projet</td>
-      <td>Tailwind, Bootstrap</td>
-    </tr>
   </tbody>
 </table>
 ---
