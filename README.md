@@ -8,17 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Développeur+Web+Full+Stack;Passionné+de+code+et+de+création;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 ---
-🙋 À propos de moi<br>
-> Je suis développeur web passionné et étudiant en informatique.  
-> J'adore transformer des idées en interfaces web élégantes et fonctionnelles.  
-> Chaque ligne de code est une opportunité d'apprendre et de progresser 🔥
-🌍 Basé à Cotonou, Bénin 🇧🇯
-🎓 Actuellement en formation en Informatique
-🌱 En apprentissage continu — toujours curieux des nouvelles technos
-🎯 Objectif : devenir un développeur Full Stack accompli
-⚡ Fun fact : Je code mieux avec une bonne musique en fond 🎵
+<h1>🙋 À propos de moi</h1><br>
+> Je suis développeur web passionné et étudiant en informatique.<br>
+> J'adore transformer des idées en interfaces web élégantes et fonctionnelles.<br>  
+> Chaque ligne de code est une opportunité d'apprendre et de progresser 🔥<br>
+🌍 Basé à Cotonou, Bénin 🇧🇯<br>
+🎓 Actuellement en formation en Informatique<br>
+🌱 En apprentissage continu — toujours curieux des nouvelles technos<br>
+🎯 Objectif : devenir un développeur Full Stack accompli<br>
 ---
-🛠️ Stack Technique
+<h1>🛠️ Stack Technique</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,7 +27,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/AJAX-005C97?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
-Outils & Environnement :
+<h1>Outils & Environnement :</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
