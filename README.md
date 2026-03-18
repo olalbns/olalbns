@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Développeur+Web+Full+Stack;Passionné+de+code+et+de+création;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 ---
-🙋 À propos de moi
+🙋 À propos de moi<br>
 > Je suis développeur web passionné et étudiant en informatique.  
 > J'adore transformer des idées en interfaces web élégantes et fonctionnelles.  
 > Chaque ligne de code est une opportunité d'apprendre et de progresser 🔥
