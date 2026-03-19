@@ -11,7 +11,7 @@
 <h1>🙋 À propos de moi</h1><br>
 > Je suis développeur web passionné et étudiant en informatique.<br>
 > J'adore transformer des idées en interfaces web élégantes et fonctionnelles.<br>  
-> Chaque ligne de code est une opportunité d'apprendre et de progresser 🔥<br>
+> Chaque ligne de code est une opportunité d'apprendre et de progresser 🔥<br><br>
 🌍 Basé à Cotonou, Bénin 🇧🇯<br>
 🎓 Actuellement en formation en Informatique<br>
 🌱 En apprentissage continu — toujours curieux des nouvelles technos<br>
